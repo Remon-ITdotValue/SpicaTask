@@ -1,0 +1,21 @@
+{
+    "Find reports and more": "ابحث عن تقارير وأشياء آخرى",
+
+    "Projects": "المشاريع",
+    "Recent projects": "المشاريع الاخيرة",  
+
+	"activity.title": "عملية",	
+	"Last updated on": "اخر تحديث في",	
+      
+	"Home": "الصفحة الرئيسية",	
+	"Contact Us": "تواصـل معنـا",
+
+	"copyright" : "سبيـكا © 2018",
+	"Last account activity" : "اخر عمليه على هذا الحساب",
+	"52 mins ago" : "منذ 52 دقيقة",
+	"Download Progress" : "حالة التحميل",
+	"Server Load" : "وضع الخادم",
+	"Memory Load" : "وضع الذاكرة",
+	"critical" : "حرج",
+	"refresh" : "تحديث"			
+}

@@ -1,0 +1,22 @@
+{
+    "Find reports and more": "Find reports and more",
+
+    "Projects": "Projects",
+    "Recent projects": "Recent Projects", 
+
+	"activity.title": "Process",
+	"Last updated on": "Last updated on",
+
+	"Home": "Home",	
+	"Personal Profile": "Personal Profile",	
+	"Contact Us": "Contact Us",
+
+	"copyright" : "Spica Assessment © 2018",
+	"Last account activity" : "Last account activity",
+	"52 mins ago" : "52 mins ago",
+	"Download Progress" : "Download Progress",
+	"Server Load" : "Server Load",
+	"Memory Load" : "Memory Load",
+	"critical" : "critical",
+	"refresh" : "refresh"
+}

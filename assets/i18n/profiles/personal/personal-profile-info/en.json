@@ -1,0 +1,19 @@
+{
+	"Company": "Company",
+	"Contact Us": "Contact Us",	
+	"Name": "Name",
+	"Email": "Email",	
+	"Mobile": "Mobile",	
+	"Message Type": "Message Type",
+	"Message": "Message",	
+	"nameAlert": "Name is required !",
+	"validEmailAlert": "Valid Email is required !",	
+	"messageTypeAlert": "Message Type is required !",
+	"messageAlert": "Message is required !",	
+	"(Or Click)": "(Or Click)",
+	"Drop files":"Drop files",
+	"Attachments": "Attachments",
+	"You can upload one or more documents": "You can upload one or more documents",
+	"to upload": "to upload",
+	"Submit" : "Submit"
+}

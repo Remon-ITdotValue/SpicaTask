@@ -1,0 +1,20 @@
+{
+	"Company": "الشـركـة",
+	"Contact Us": "تواصـل معنـا",
+	"Name": "الأسم",
+	"Email": "البريد الإلكتروني",	
+	"Mobile": "المحمول",	
+	"Message Type": "نوع الرسالة",
+	"Message": "الرسالة",	
+	"nameAlert": "مطلوب الأسم !",
+	"validEmailAlert": "مطلوب بريد الكتروني صحيح !",
+	"messageTypeAlert": "مطلوب نوع الرسالة !",
+	"messageAlert": "مطلوب الرسالة !",		
+	"(Or Click)": "(أو انقر)",
+	"Dewa bill":   "فاتورة ديوا"	 ,
+	"Drop files": "ضع الملفات",
+	"Attachments": "مرفقات",
+	"You can upload one or more documents": "يمكنك رفع ملف أو اكثر",
+	"to upload": "للتحميل",
+	"Submit" : "احفظ"	
+}

@@ -1,0 +1,7 @@
+The sound effects for:
+
+voice_off
+voice_on
+voice_alert
+
+download link: https://www.freesound.org/people/Bertrof/packs/8276/
